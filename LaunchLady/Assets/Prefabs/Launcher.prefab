@@ -131,3 +131,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Muzzle: {fileID: 5541613927130265312}
   ProjectilePrefab: {fileID: 1705098256950298372, guid: 2292c3b56eb029243938e27e36069faf, type: 3}
+  PreviewDotPrefab: {fileID: 2607612729806981130, guid: 312225fbc9108764bbf269fe8917f295, type: 3}
